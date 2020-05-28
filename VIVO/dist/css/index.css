@@ -119,6 +119,16 @@ footer {
   font-size: 12px;
   margin-top: 5px; }
 
+.list-one .server span b {
+  display: block;
+  width: 0px;
+  height: 0px;
+  border: 10px solid transparent;
+  border-top: 10px solid #fff;
+  position: absolute;
+  bottom: -20px;
+  left: 70px; }
+
 .list-one .online:hover {
   cursor: pointer;
   color: #008cd6; }
