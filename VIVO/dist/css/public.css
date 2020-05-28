@@ -1,0 +1,18 @@
+.main {
+  width: 1192px;
+  margin: 0 auto; }
+
+.clearFixed:after {
+  content: "";
+  display: block;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  visibility: hidden;
+  clear: both; }
+
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }

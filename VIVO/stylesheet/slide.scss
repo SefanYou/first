@@ -1,0 +1,21 @@
+#slideList {
+    height: 482px;
+    position: relative;
+    li {
+        width: 200px;
+        height: 65px;
+        a {
+            &:hover {
+                color: #fff;
+            }
+            span {
+                float: right;
+            }
+        }
+    }
+    div {
+        position: absolute;
+        width: 200px;
+        height: 482px;
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "data": {
+        "banner": [{
+                "id": 1,
+                "img": "./images/lb1.jpg"
+            },
+            {
+                "id": 2,
+                "img": "./images/lb2.png"
+            },
+            {
+                "id": 3,
+                "img": "./images/lb3.png"
+            },
+            {
+                "id": 4,
+                "img": "./images/lb4.jpg"
+            },
+            {
+                "id": 5,
+                "img": "./images/lb5.jpg"
+            }
+        ],
+        "top": [{
+                "id": 1,
+                "img": "./images/f1.jpg"
+            },
+            {
+                "id": 2,
+                "img": "./images/f2.jpg"
+            },
+            {
+                "id": 3,
+                "img": "./images/f3.png"
+            },
+            {
+                "id": 4,
+                "img": "./images/f4.png"
+            }
+        ],
+        "vBuy": [{
+                "id": 1,
+                "skuImg": "./images/v1.png",
+                "skuName": "vivo X27 8GB+128GB版 雀羽蓝",
+                "actPrice": 2198.000,
+                "marketPrice": 2498.000,
+                "cornerImg": "./images/cv1.png",
+                "promotion": "限时享3期免息"
+            },
+            {
+                "id": 2,
+                "skuImg": "./images/v2.png",
+                "skuName": "iQOO 2A Type-C 手游数据线 黄色",
+                "actPrice": 39.000,
+                "marketPrice": 59.000,
+                "cornerImg": "./images/cv2.png",
+                "promotion": "直降20元"
+            },
+            {
+                "id": 3,
+                "skuImg": "./images/v3.png",
+                "skuName": "vivo 18W闪充充电器",
+                "actPrice": 49.000,
+                "marketPrice": 79.000,
+                "cornerImg": "./images/cv3.png",
+                "promotion": "直降30元"
+            },
+            {
+                "id": 4,
+                "skuImg": "./images/v4.png",
+                "skuName": "vivo XE600i 原装耳机",
+                "actPrice": 59.000,
+                "marketPrice": 99.000,
+                "cornerImg": "./images/cv4.png",
+                "promotion": "直降40元"
+            },
+            {
+                "id": 5,
+                "skuImg": "./images/v5.png",
+                "skuName": "X23原装保护膜",
+                "actPrice": 14.000,
+                "marketPrice": 29.000,
+                "cornerImg": "./images/cv5.png",
+                "promotion": "直降15元，限量抢购"
+            },
+            {
+                "id": 6,
+                "skuImg": "./images/v6.png",
+                "skuName": "Z5x 原装保护膜",
+                "actPrice": 14.000,
+                "marketPrice": 29.000,
+                "cornerImg": "./images/cv6.png",
+                "promotion": "直降15元（注：2.5D弧面位置不在贴膜覆盖范围）"
+            },
+            {
+                "id": 7,
+                "skuImg": "./images/v7.png",
+                "skuName": "iQOO Pro 12GB+128GB 竞速黑",
+                "actPrice": 2898.000,
+                "marketPrice": 3198.000,
+                "cornerImg": "./images/cv7.png",
+                "promotion": "6期免息；赠组合配件券"
+            },
+            {
+                "id": 8,
+                "skuImg": "./images/v8.png",
+                "skuName": "Z5x 星尘磨砂保护壳 星空蓝",
+                "actPrice": 19.000,
+                "marketPrice": 39.000,
+                "cornerImg": "./images/cv8.png",
+                "promotion": "直降20元，限量抢购"
+            },
+            {
+                "id": 9,
+                "skuImg": "./images/v9.png",
+                "skuName": "Guildford手机桌面支架 银色",
+                "actPrice": 33.000,
+                "marketPrice": 39.000,
+                "cornerImg": "./images/cv9.png",
+                "promotion": "限时直降，限量抢购"
+            },
+            {
+                "id": 10,
+                "skuImg": "./images/v10.png",
+                "skuName": "网易严选 蓝牙HiFi耳机 X3 Plus 灰色",
+                "actPrice": 144.000,
+                "marketPrice": 169.000,
+                "cornerImg": "./images/cv10.png",
+                "promotion": "限时直降，限量抢购"
+            }
+        ],
+        "hotSale": [{
+                "id": 1,
+                "skuImg": "./images/hotSale1.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 2,
+                "skuImg": "./images/hotSale2.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 3,
+                "skuImg": "./images/hotSale3.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            }
+        ],
+        "qulityPhone": [{
+                "id": 1,
+                "skuImg": "./images/qulityPhone.jpg",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 2,
+                "skuImg": "./images/phone1.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 3,
+                "skuImg": "./images/phone2.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 4,
+                "skuImg": "./images/phone3.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 5,
+                "skuImg": "./images/phone4.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 6,
+                "skuImg": "./images/phone5.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 7,
+                "skuImg": "./images/phone6.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            }
+        ],
+        "component": [{
+                "id": 1,
+                "skuImg": "./images/item1.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 2,
+                "skuImg": "./images/item2.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 3,
+                "skuImg": "./images/item3.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 4,
+                "skuImg": "./images/item4.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 5,
+                "skuImg": "./images/item5.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 6,
+                "skuImg": "./images/item6.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 7,
+                "skuImg": "./images/item7.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            },
+            {
+                "id": 8,
+                "skuImg": "./images/item8.png",
+                "skuName": "iQOO Pro 8GB+128GB 竞速黑",
+                "description": "限时享3期免息",
+                "actPrice": 2798.000
+            }
+        ]
+    },
+    "code": 0,
+    "msg": "成功"
+}
