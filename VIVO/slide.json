@@ -1,0 +1,493 @@
+{
+    "slideData": {
+        "phone": {
+            "phoneHead": [{
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                }
+            ],
+            "phoneContent": [{
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘"
+                }
+            ]
+        },
+        "charge": {
+            "chargeHead": [{
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                }
+            ],
+            "chargeContent": [{
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }, {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }, {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }, {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/charge/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }
+            ]
+        },
+        "component": {
+            "componentHead": [{
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                }
+            ],
+            "componentContent": [{
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }
+            ]
+        },
+        "music": {
+            "musicHead": [{
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                }
+            ],
+            "musicContent": [{
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/music/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }
+            ]
+        },
+        "hardWare": {
+            "hardWareHead": [{
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/phone/h1.jpg",
+                    "skuName": "数据线"
+                }
+            ],
+            "hardWareContent": [{
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/phone/1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }
+            ]
+        },
+        "photo": {
+            "photoHead": [{
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                }
+            ],
+            "photoContent": [{
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/photo/1.png",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }
+            ]
+        },
+        "life": {
+            "lifeHead": [{
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                },
+                {
+                    "skuImg": "./images/nav/charge/3.jpg",
+                    "skuName": "数据线"
+                }
+            ],
+            "lifeContent": [{
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                },
+                {
+                    "skuImg": "./images/nav/life/life1.jpg",
+                    "skuName": "飞智 木蝎单手机械键盘",
+                    "cornerImg": "./images/xianliang.png"
+                }
+            ]
+        }
+
+    },
+    "code": 0,
+    "msg": "成功"
+}

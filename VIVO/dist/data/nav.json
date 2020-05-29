@@ -1,0 +1,178 @@
+{
+    "navData": {
+        "NEX": [{
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "NEX 3S",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            }
+        ],
+        "X": [{
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            }
+        ],
+        "S": [{
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "cornerImg": "./images/xianliang.png"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            }
+        ],
+        "Y": [{
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            }
+        ],
+        "Z": [{
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            }
+        ],
+        "U": [{
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            }
+        ],
+        "IQOO": [{
+                "skuImg": "./images/nav/phone/1.jpg",
+                "skuName": "Guildford手机桌面支架 银色",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            },
+            {
+                "skuImg": "./images/nav/phone/h1.jpg",
+                "skuName": "数据线",
+                "description": "新款"
+            }
+        ],
+        "earPhone": [{
+            "skuImg": "./images/nav/phone/h1.jpg",
+            "skuName": "数据线",
+            "description": "新款"
+        }]
+    },
+    "code": 0,
+    "msg": "成功"
+}

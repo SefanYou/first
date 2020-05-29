@@ -79,16 +79,25 @@ gulp.task("scss3", function() {
         .pipe(connect.reload());
 })
 gulp.task("scss4", function() {
-        return gulp.src("./stylesheet/slide.scss")
+    return gulp.src("./stylesheet/slide.scss")
+        .pipe(scss())
+        .pipe(gulp.dest("dist/css"))
+        .pipe(minifyCSS())
+        .pipe(rename("slide.min.css"))
+        .pipe(gulp.dest("dist/css"))
+        .pipe(connect.reload());
+})
+gulp.task("scss5", function() {
+        return gulp.src("./stylesheet/list.scss")
             .pipe(scss())
             .pipe(gulp.dest("dist/css"))
             .pipe(minifyCSS())
-            .pipe(rename("slide.min.css"))
+            .pipe(rename("list.min.css"))
             .pipe(gulp.dest("dist/css"))
             .pipe(connect.reload());
     })
     //将上面所有的任务执行一遍，在监听之前，将所有的任务，先去执行一遍
-gulp.task("build", ["copy-html", 'images', "scripts", "data", "icons", "scss1", "scss2", "scss3", "scss4"], function() {
+gulp.task("build", ["copy-html", 'images', "scripts", "data", "icons", "scss1", "scss2", "scss3", "scss4", "scss5"], function() {
     console.log("项目建立成功");
 })
 
@@ -103,6 +112,7 @@ gulp.task("watch", function() {
     gulp.watch("./stylesheet/public.scss", ['scss2']);
     gulp.watch("./stylesheet/reset.scss", ['scss3']);
     gulp.watch("./stylesheet/slide.scss", ['scss4']);
+    gulp.watch("./stylesheet/list.scss", ['scss5']);
 })
 
 const connect = require("gulp-connect");

@@ -1,0 +1,288 @@
+@import "public";
+.content {
+    background-color: rgb(236, 222, 222);
+    .content1 {
+        min-height: 2782px;
+        p:first-child {
+            min-height: 64px;
+            line-height: 64px;
+            color: #333;
+            font-size: 24px;
+        }
+        .list1 {
+            li {
+                width: 100%;
+                height: 434px;
+                overflow: hidden;
+                @include translate;
+                margin-bottom: 10px;
+                img {
+                    width: 854px;
+                    height: 434px;
+                    float: left;
+                }
+                .details {
+                    width: 338px;
+                    height: 100%;
+                    float: left;
+                    background-color: #fff;
+                    padding: 94px 0px 0px 34px;
+                    box-sizing: border-box;
+                    h1 {
+                        display: inline-block;
+                        height: 32px;
+                        line-height: 32px;
+                        color: rgba(51, 51, 51, .9);
+                        font-size: 32px;
+                    }
+                    h3 {
+                        display: inline-block;
+                        width: 270px;
+                        line-height: 22px;
+                        min-height: 44px;
+                        color: rgba(51, 51, 51, .7);
+                        font-size: 14px;
+                        margin-top: 10px;
+                    }
+                    p {
+                        width: 270px;
+                        height: 52px;
+                        margin-top: 20px;
+                        color: #ff6700;
+                        b {
+                            font-size: 32px;
+                            letter-spacing: -2px;
+                        }
+                        span {
+                            font-size: 12px;
+                            font-weight: 700;
+                        }
+                    }
+                    a {
+                        display: inline-block;
+                        font-size: 14px;
+                        color: #333;
+                        margin-top: 60px;
+                    }
+                }
+            }
+        }
+        .list2 {
+            li {
+                width: 590px;
+                margin: 0px 12px 10px 0px;
+                float: left;
+                @include translate;
+                img {
+                    width: 590px;
+                    height: 358px;
+                }
+                div {
+                    width: 100%;
+                    height: 124px;
+                    background-color: #fff;
+                    padding: 30px 30px 0px 50px;
+                    box-sizing: border-box;
+                    h2 {
+                        color: rgba(51, 51, 51, .9);
+                        font-size: 24px;
+                    }
+                    p {
+                        span:first-child {
+                            float: left;
+                            color: rgba(51, 51, 51, .7);
+                            font-size: 14px;
+                            margin-top: 12px;
+                        }
+                        span:nth-child(2) {
+                            float: right;
+                            font-size: 30px;
+                            color: #ff6700;
+                            b:first-child {
+                                font-size: 12px;
+                            }
+                            b:nth-child(2) {
+                                font-size: 12px;
+                                color: rgba(51, 51, 51, .6);
+                                text-decoration: line-through;
+                            }
+                        }
+                    }
+                }
+            }
+            li:nth-child(2n) {
+                margin-right: 0px;
+            }
+        }
+    }
+    .content2 {
+        min-height: 2524px;
+        p:first-child {
+            min-height: 64px;
+            line-height: 64px;
+            color: #333;
+            font-size: 24px;
+        }
+        .list2 {
+            li {
+                width: 590px;
+                margin: 0px 12px 10px 0px;
+                float: left;
+                @include translate;
+                img {
+                    width: 590px;
+                    height: 358px;
+                }
+                div {
+                    width: 100%;
+                    height: 124px;
+                    background-color: #fff;
+                    padding: 30px 30px 0px 50px;
+                    box-sizing: border-box;
+                    h2 {
+                        color: rgba(51, 51, 51, .9);
+                        font-size: 24px;
+                    }
+                    p {
+                        span:first-child {
+                            float: left;
+                            color: rgba(51, 51, 51, .7);
+                            font-size: 14px;
+                            margin-top: 12px;
+                        }
+                        span:nth-child(2) {
+                            float: right;
+                            font-size: 30px;
+                            color: #ff6700;
+                            b:first-child {
+                                font-size: 12px;
+                            }
+                            b:nth-child(2) {
+                                font-size: 12px;
+                                color: rgba(51, 51, 51, .6);
+                                text-decoration: line-through;
+                            }
+                        }
+                    }
+                }
+            }
+            li:nth-child(2n) {
+                margin-right: 0px;
+            }
+        }
+    }
+    .content3 {
+        min-height: 2062px;
+        p:first-child {
+            min-height: 64px;
+            line-height: 64px;
+            color: #333;
+            font-size: 24px;
+        }
+        .list1 {
+            li {
+                width: 100%;
+                height: 434px;
+                overflow: hidden;
+                @include translate;
+                margin-bottom: 10px;
+                img {
+                    width: 854px;
+                    height: 434px;
+                    float: left;
+                }
+                .details {
+                    width: 338px;
+                    height: 100%;
+                    float: left;
+                    background-color: #fff;
+                    padding: 94px 0px 0px 34px;
+                    box-sizing: border-box;
+                    h1 {
+                        display: inline-block;
+                        height: 32px;
+                        line-height: 32px;
+                        color: rgba(51, 51, 51, .9);
+                        font-size: 32px;
+                    }
+                    h3 {
+                        display: inline-block;
+                        width: 270px;
+                        line-height: 22px;
+                        min-height: 44px;
+                        color: rgba(51, 51, 51, .7);
+                        font-size: 14px;
+                        margin-top: 10px;
+                    }
+                    p {
+                        width: 270px;
+                        height: 52px;
+                        margin-top: 20px;
+                        color: #ff6700;
+                        b {
+                            font-size: 32px;
+                            letter-spacing: -2px;
+                        }
+                        span {
+                            font-size: 12px;
+                            font-weight: 700;
+                        }
+                    }
+                    a {
+                        display: inline-block;
+                        font-size: 14px;
+                        color: #333;
+                        margin-top: 60px;
+                    }
+                }
+            }
+        }
+        .list2 {
+            li {
+                width: 590px;
+                margin: 0px 12px 10px 0px;
+                float: left;
+                @include translate;
+                img {
+                    width: 590px;
+                    height: 358px;
+                }
+                div {
+                    width: 100%;
+                    height: 124px;
+                    background-color: #fff;
+                    padding: 30px 30px 0px 50px;
+                    box-sizing: border-box;
+                    h2 {
+                        color: rgba(51, 51, 51, .9);
+                        font-size: 24px;
+                    }
+                    p {
+                        span:first-child {
+                            float: left;
+                            color: rgba(51, 51, 51, .7);
+                            font-size: 14px;
+                            margin-top: 12px;
+                        }
+                        span:nth-child(2) {
+                            float: right;
+                            font-size: 30px;
+                            color: #ff6700;
+                            b:first-child {
+                                font-size: 12px;
+                            }
+                            b:nth-child(2) {
+                                font-size: 12px;
+                                color: rgba(51, 51, 51, .6);
+                                text-decoration: line-through;
+                            }
+                        }
+                    }
+                }
+            }
+            li:nth-child(2n) {
+                margin-right: 0px;
+            }
+        }
+    }
+}

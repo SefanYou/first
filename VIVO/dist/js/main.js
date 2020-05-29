@@ -23,7 +23,9 @@ require.config({
 
 
 //使用轮播图模块，实现轮播效果
-require(["index"], function(index) {
+require(["index", "nav"], function(index, nav) {
     index.download(); //下载数据
+    // nav.slide();
+    nav.download();
 
 })
